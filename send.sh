@@ -30,9 +30,9 @@ function banner() {
      ██        ▒▒██                                    V1.4██▒▒        ██
      ██          ▒▒████████████████████████████████████████▒▒          ██
      ██            ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒            ██
-     ██     Coded by: https://github.com/                     ██
-     ██     Youtube : https://www.youtube.com/           ██
-     ██   Instagram : https://instagram.com/     ██
+     ██     Coded by: https://github.com/            ██
+     ██     Youtube : https://www.youtube.com/  ██
+     ██   Instagram : https://instagram.com/ ██
      ██                                                                ██
      ████████████████████████████████████████████████████████████████████
      ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ "
